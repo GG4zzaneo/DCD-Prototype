@@ -17,3 +17,8 @@
 .clephan-bg {
 	background-image: url(../img/stream-covers/clephan-bg.jpg);
 }
+
+.dmu-logo {
+	background-image: url(../img/logo/dmu-logo.png);
+	background-size: 95%;
+}
