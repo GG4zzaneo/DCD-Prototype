@@ -54,3 +54,8 @@
 .fa-location-arrow:before {
 	content: "\f124";
 }
+
+.fa-arrow-left:before {
+	content: "\f060";
+}
+

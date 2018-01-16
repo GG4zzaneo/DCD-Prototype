@@ -34,6 +34,7 @@ body {
 	background-size: cover;
 	border: 2px solid #a81d35;
 	border-width: 2px 0px;
+	text-decoration: none;
 }
 
 .card:first-child {	
@@ -46,9 +47,7 @@ body {
 
 .card h1 {
 	padding: 15px 30px;
-	color: white;
 	color: #a81d35;
-	background-color: rgba(0,0,0,0.8);
 	background-color: rgba(255,255,255,0.8);
 	font-weight: bold;
 	border:2px solid black;
