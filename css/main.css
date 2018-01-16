@@ -10,6 +10,7 @@ body {
 	height: 100%;
 	margin: 0px;
 	font-family: "akzidenz-grotesk", arial, sans-serif;
+	-webkit-overflow-scrolling: touch;
 }
 
 .card-container {
