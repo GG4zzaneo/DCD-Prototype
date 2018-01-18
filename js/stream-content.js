@@ -100,8 +100,7 @@
 
 		}
 
-		//setTimeout(changeTicketerContent, 25);
-		setTimeout(changeTicketerContent, 10);
+		setTimeout(changeTicketerContent, 25);
 	}
 
 
